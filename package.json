@@ -1,0 +1,11 @@
+{
+  "name": "keep-alive-script",
+  "version": "1.0.0",
+  "description": "A script to keep a Render.com app alive by pinging it regularly.",
+  "main": "keep-alive.js",
+  "scripts": {
+    "start": "node keep-alive.js"
+  },
+  "author": "Dein Name",
+  "license": "MIT"
+}
